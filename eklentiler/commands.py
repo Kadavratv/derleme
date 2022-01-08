@@ -188,11 +188,11 @@ async def show_help(client, message):
 async def repo_(client, message):
     buttons = [
         [
-            InlineKeyboardButton('🧩 Repository', url='https://github.com/subinps/VCPlayerBot'),
-            InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/subin_works'),     
+            InlineKeyboardButton('🧩 Repository', url='https://t.me/kizilsancaksahibi'),
+            InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/t.me/kizilsancakbilgi'),     
         ],
         [
-            InlineKeyboardButton("🎞 How to Deploy", url='https://youtu.be/mnWgZMrNe_0'),
+            InlineKeyboardButton("🎞 How to Films", url='t.me/kizilsancak06'),
             InlineKeyboardButton('🗑 Close', callback_data='close'),
         ]
     ]
